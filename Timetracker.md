@@ -1,3 +1,4 @@
 ### 7 декабря 2023 
   - STB image loader
-  - Opengl book pages 1-53
+  - Opengl book (pages 1 - 53 )
+  - Topology (pages 1 - 18 )
