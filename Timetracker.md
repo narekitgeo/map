@@ -4,4 +4,5 @@
   - Topology (pages 1 - 18 )
 ### 8 декабря 2023
 - Opengl book (pages 54 - 95 )
+- Mipmap
   
