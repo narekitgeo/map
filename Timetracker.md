@@ -7,3 +7,4 @@
   - Mipmap
 ### 9 декабря 2023
   - VSCode c/c++ debug configuration
+  - Topology (pages 19 - 22 )
