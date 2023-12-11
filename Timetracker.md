@@ -8,3 +8,6 @@
 ### 9 декабря 2023
   - VSCode c/c++ debug configuration
   - Topology (pages 19 - 22 )
+### 11 декабря 2023
+  - Topology (pages 22 - 26 )
+  - 
