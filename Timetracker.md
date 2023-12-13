@@ -11,3 +11,5 @@
 ### 11 декабря 2023
   - Topology (pages 22 - 26 )
   - C++ streams
+### 12 декабря 2023
+  - Лейбл полигона - ( https://proceedings.esri.com/library/userconf/proc01/professional/papers/pap388/p388.htm  )
