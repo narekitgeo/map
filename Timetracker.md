@@ -13,3 +13,9 @@
   - C++ streams
 ### 12 декабря 2023
   - Лейбл полигона - ( https://proceedings.esri.com/library/userconf/proc01/professional/papers/pap388/p388.htm  )
+### 13 декабря 2023
+  - Смотрел yandex, google maps, 2 Gis
+### 13 декабря 2023
+  - Алгоритм скелетона
+### 15 декабря 2023
+  - Разработка алгоритма(принцып) нанесения надписей на дорогах карт
